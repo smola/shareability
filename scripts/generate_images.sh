@@ -7,3 +7,4 @@ gen_text() {
 }
 
 gen_text "200x200.png" 200x200
+gen_text "600x600.png" 600x600
